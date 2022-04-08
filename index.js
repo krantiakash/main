@@ -6,3 +6,6 @@ console.log(c, d);
 
 let { e, f } = 30;
 console.log(e, f);
+
+let { g, h } = 40;
+console.log(g, h);
